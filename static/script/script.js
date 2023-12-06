@@ -213,3 +213,40 @@ $('.back_btn').click(function(){
 		// $('.text-wrap .text').css('position', 'relative');
 	}
 });
+
+// ---------PARA EL REPRODUCTOR Y LISTA-----
+
+document.addEventListener('DOMContentLoaded', function () {
+	var player = document.getElementById('player');
+	var listItems = document.querySelectorAll('.list_item');
+  
+	listItems.forEach(function (item) {
+	  item.addEventListener('click', function () {
+		// Obtener información de la estación seleccionada
+		var title = item.querySelector('.title').innerText;
+		var artist = item.querySelector('.artist').innerText;
+  
+		// Actualizar el reproductor con la información de la estación seleccionada
+		var playbackInfo = player.querySelector('.playback_info');
+		var playbackThumb = player.querySelector('.playback_thumb');
+  
+		playbackInfo.querySelector('.title').innerText = title;
+		playbackInfo.querySelector('.artist').innerText = artist;
+  
+		// Aquí puedes cargar la imagen correspondiente a la estación seleccionada
+		var imageUrl = obtenerUrlImagen(title); // Define una función para obtener la URL de la imagen según el título
+		playbackThumb.style.backgroundImage = 'url("' + imageUrl + '")';
+  
+		// Agregar o quitar la clase 'playing' según tu lógica de reproducción
+		player.classList.add('playing');
+  
+		// Puedes agregar lógica adicional aquí según tus necesidades
+	  });
+	});
+  
+	// Función de ejemplo para obtener la URL de la imagen según el título de la estación
+	function obtenerUrlImagen(title) {
+	  // Ajusta la ruta según la estructura de tu proyecto
+	  return '/static/img/' + title + '.jpg';
+	}
+  });

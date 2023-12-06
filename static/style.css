@@ -378,7 +378,7 @@ body {
   position: absolute;
   margin: 35px;
   box-shadow: 0px 12px 30px 0px rgba(97, 45, 45, 0.2);
-  background-image: url(https://i1.sndcdn.com/artworks-000167527289-p3zpfg-t500x500.jpg);
+  background-image: url(img/moda.png);
 }
 
 .playback_info {
@@ -521,30 +521,32 @@ body {
 }
 
 .list .list_item:nth-child(1) .thumb {
-  background-image: url(https://i1.sndcdn.com/artworks-000167527289-p3zpfg-large.jpg);
+  background-image: url(img/MODA.jpg);
 }
 .list .list_item:nth-child(2) .thumb {
-  background-image: url(https://i1.sndcdn.com/artworks-000149308680-w9rj6a-large.jpg);
+  background-image: url(img/RPP.jpg);
 }
 .list .list_item:nth-child(3) .thumb {
-  background-image: url(https://i1.sndcdn.com/artworks-000091003491-upr0rf-large.jpg);
+  background-image: url(img/EXITOSA.jpg);
 }
 .list .list_item:nth-child(4) .thumb {
-  background-image: url(https://i1.sndcdn.com/artworks-000125642440-o2ff73-large.jpg);
+  background-image: url(img/ONDA\ CERO.jpg);
 }
 .list .list_item:nth-child(5) .thumb {
-  background-image: url(https://i1.sndcdn.com/artworks-000174340505-wv6dl1-large.jpg);
+  background-image: url(img/PLANETA.jpg);
 }
 .list .list_item:nth-child(6) .thumb {
-  background-image: url(https://i1.sndcdn.com/artworks-000169142537-e22x2o-large.jpg);
+  background-image: url(img/OXIGENO.jpg);
 }
 .list .list_item:nth-child(7) .thumb {
-  background-image: url(https://i1.sndcdn.com/artworks-000180119811-wgpequ-large.jpg);
+  background-image: url(img/ZONA.jpg);
 }
 .list .list_item:nth-child(8) .thumb {
-  background-image: url(https://i1.sndcdn.com/artworks-000133986066-hf1rz6-large.jpg);
+  background-image: url(img/LA\ KARIBEÑA.jpg);
 }
-
+.list .list_item:nth-child(9) .thumb {
+  background-image: url(img/BETHEL.jpg);
+}
 .selected {
   background-color: rgba(224, 186, 171, 0.19);
 }
