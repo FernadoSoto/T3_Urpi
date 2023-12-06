@@ -30,7 +30,7 @@ En esta parte del sistema prototipo lo que se esta trabajando y avanzando es la 
 
 
 
-Abrimos las puertas a una experiencia completa. Los usuarios tendrán la oportunidad de sumergirse en programas de radio. Cada canal de radio cuenta con su  espacio, proporcionando una organización clara y accesible para que los usuarios puedan seleccionar y disfrutar de sus contenidos preferidos.
+Buscamos abrir las puertas a una experiencia completa. Los usuarios tendrán la oportunidad de sumergirse en programas de radio. Cada canal de radio cuenta con su  espacio, proporcionando una organización clara y accesible para que los usuarios puedan seleccionar y disfrutar de sus contenidos preferidos.
 
 
 
