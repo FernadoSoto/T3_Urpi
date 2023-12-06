@@ -6,8 +6,8 @@ Integrantes:
 -- Fernando Soto
 -- Maria 
 -- Max RAMIREZ 
--- 
--- 
+-- Alex Cahuana
+-- Jose Gallardo
 
 
 
