@@ -12,7 +12,8 @@ Integrantes:
 
 
 
--Transformando la Experiencia Digital de la Propaganda Política
+-Transformando la Experiencia Digital de los programas de radio
+
 
 
 
