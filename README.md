@@ -13,6 +13,13 @@ Integrantes:
 
 
 -Transformando la Experiencia Digital de la Propaganda Política
+
+
+
+
+
+
+
 El prototipo Urpi es un proyecto nacido de la necesidad de transmitir y propagar las publicidades del partido politico, aprovechando las posibilidades que ofrece la tecnologia digital. Este proyecto se ubica como una organización digital, en la vanguardia de la innovación y la difusión de mensajes políticos, asi como contenido de entretenimiento.
 
 
